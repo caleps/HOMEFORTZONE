@@ -1,0 +1,26 @@
+E:\4 rab3a\control_db\control_db\bin\Debug\control_db.exe.config
+E:\4 rab3a\control_db\control_db\bin\Debug\control_db.exe
+E:\4 rab3a\control_db\control_db\bin\Debug\control_db.pdb
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.csprojResolveAssemblyReference.cache
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.Form1.resources
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.Properties.Resources.resources
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.csproj.GenerateResource.Cache
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.exe
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.pdb
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.control.resources
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.AddRoom.resources
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.AddDevice.resources
+E:\4 rab3a\control_db\control_db\obj\Debug\control_db.device_page.resources
+D:\control_db\control_db\bin\Debug\control_db.exe.config
+D:\control_db\control_db\obj\Debug\control_db.exe
+D:\control_db\control_db\obj\Debug\control_db.pdb
+D:\control_db\control_db\bin\Debug\control_db.exe
+D:\control_db\control_db\bin\Debug\control_db.pdb
+D:\control_db\control_db\obj\Debug\control_db.csprojResolveAssemblyReference.cache
+D:\control_db\control_db\obj\Debug\control_db.AddDevice.resources
+D:\control_db\control_db\obj\Debug\control_db.AddRoom.resources
+D:\control_db\control_db\obj\Debug\control_db.control.resources
+D:\control_db\control_db\obj\Debug\control_db.device_page.resources
+D:\control_db\control_db\obj\Debug\control_db.Form1.resources
+D:\control_db\control_db\obj\Debug\control_db.Properties.Resources.resources
+D:\control_db\control_db\obj\Debug\control_db.csproj.GenerateResource.Cache
